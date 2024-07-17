@@ -1,2 +1,2 @@
 # personal-website
-HTML &amp; CSS Personal Website (No JS Functionality)
+HTML &amp; CSS Personal Website (No JS Functionality). Currently unfinished.
